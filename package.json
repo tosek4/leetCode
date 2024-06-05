@@ -1,0 +1,16 @@
+{
+  "name": "leetCode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tosek4/leetCode.git",
+  "author": "TosoK <tosekleckaroski@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.2",
+    "ts-node": "10.9.2",
+    "typescript": "5.4.5"
+  }
+}
