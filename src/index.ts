@@ -1,2 +1,2 @@
-import { pickGifts } from "./dailyProblems/daily_2558";
-console.log("Run: ", pickGifts([1,1,1,1], 4));
+import { finalPrices } from "./dailyProblems/daily_1475";
+console.log("Run: ", finalPrices([8, 4, 6, 2, 3]));
