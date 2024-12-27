@@ -1,2 +1,2 @@
-import { finalPrices } from "./dailyProblems/daily_1475";
-console.log("Run: ", finalPrices([8, 4, 6, 2, 3]));
+import { maxScoreSightseeingPair } from "./dailyProblems/daily_1014";
+console.log("Run: ", maxScoreSightseeingPair([8, 1, 5, 2, 6]));
