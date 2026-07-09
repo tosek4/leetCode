@@ -1,2 +1,5 @@
-import { sumAndMultiply } from "./dailyProblems/daily_3754";
-console.log("Run: ", sumAndMultiply(10203004));
+import { pathExistenceQueries } from "./dailyProblems/daily_3532";
+console.log(
+  "Run: ",
+  pathExistenceQueries(4, [2,5,6,8], 2, [[0,1],[0,2],[1,3],[2,3]]),
+);
