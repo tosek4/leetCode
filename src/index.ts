@@ -1,5 +1,10 @@
-import { pathExistenceQueries } from "./dailyProblems/daily_3532";
+import { countCompleteComponents } from "./dailyProblems/daily_2685";
 console.log(
   "Run: ",
-  pathExistenceQueries(4, [2,5,6,8], 2, [[0,1],[0,2],[1,3],[2,3]]),
+  countCompleteComponents(6, [
+    [0, 1],
+    [0, 2],
+    [1, 2],
+    [3, 4],
+  ]),
 );
