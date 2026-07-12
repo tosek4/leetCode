@@ -1,10 +1,5 @@
-import { countCompleteComponents } from "./dailyProblems/daily_2685";
+import { arrayRankTransform } from "./dailyProblems/daily_1331";
 console.log(
   "Run: ",
-  countCompleteComponents(6, [
-    [0, 1],
-    [0, 2],
-    [1, 2],
-    [3, 4],
-  ]),
+  arrayRankTransform([7,4,4,10,1]),
 );
