@@ -1,5 +1,2 @@
-import { arrayRankTransform } from "./dailyProblems/daily_1331";
-console.log(
-  "Run: ",
-  arrayRankTransform([7,4,4,10,1]),
-);
+import { sequentialDigits } from "./dailyProblems/daily_1291";
+console.log("Run: ", sequentialDigits(1000, 13000));
