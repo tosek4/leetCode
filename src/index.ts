@@ -1,2 +1,2 @@
-import { sequentialDigits } from "./dailyProblems/daily_1291";
-console.log("Run: ", sequentialDigits(1000, 13000));
+import { isPalindromeV2 } from "./dailyProblems/daily_9";
+console.log("Run: ", isPalindromeV2(-121));
