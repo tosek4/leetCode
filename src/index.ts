@@ -1,2 +1,2 @@
-import { isPalindromeV2 } from "./dailyProblems/daily_9";
-console.log("Run: ", isPalindromeV2(-121));
+import { gcdOfOddEvenSums } from "./dailyProblems/daily_3658";
+console.log("Run: ", gcdOfOddEvenSums(5));
