@@ -1,2 +1,2 @@
-import { gcdOfOddEvenSums } from "./dailyProblems/daily_3658";
-console.log("Run: ", gcdOfOddEvenSums(5));
+import { gcdSum } from "./dailyProblems/daily_3867";
+console.log("Run: ", gcdSum([3,6,2,8]));
