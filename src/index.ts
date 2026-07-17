@@ -1,2 +1,2 @@
-import { gcdSum } from "./dailyProblems/daily_3867";
-console.log("Run: ", gcdSum([3,6,2,8]));
+import { gcdValues } from "./dailyProblems/daily_3312";
+console.log("Run: ", gcdValues([2,2], [0,0]));
