@@ -1,2 +1,2 @@
-import { lengthOfLongestSubstring } from "./dailyProblems/daily_3";
-console.log("Run: ", lengthOfLongestSubstring("au"));
+import { uniqueXorTriplets } from "./dailyProblems/daily_3513";
+console.log("Run: ", uniqueXorTriplets([1, 2]));
