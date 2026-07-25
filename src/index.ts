@@ -1,2 +1,2 @@
-import { uniqueXorTriplets } from "./dailyProblems/daily_3513";
-console.log("Run: ", uniqueXorTriplets([1, 2]));
+import { maxProduct } from "./dailyProblems/daily_3536";
+console.log("Run: ", maxProduct(124));
