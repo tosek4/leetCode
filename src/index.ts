@@ -1,2 +1,2 @@
-import { smallestPalindrome } from "./dailyProblems/daily_3517";
-console.log("Run: ", smallestPalindrome("z"));
+import { minimumPushes } from "./dailyProblems/daily_3014";
+console.log("Run: ", minimumPushes("xycdefghij"));
