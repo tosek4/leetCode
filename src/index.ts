@@ -1,2 +1,2 @@
-import { findMissingElements } from "./dailyProblems/daily_3731";
-console.log("Run: ", findMissingElements([5, 1]));
+import { missingInteger } from "./dailyProblems/daily_2996";
+console.log("Run: ", missingInteger([1,2,3,2,5]));
