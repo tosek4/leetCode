@@ -1,2 +1,2 @@
-import { missingInteger } from "./dailyProblems/daily_2996";
-console.log("Run: ", missingInteger([1,2,3,2,5]));
+import { uniformArray } from "./dailyProblems/daily_3875";
+console.log("Run: ", uniformArray([23,86]));
