@@ -1,2 +1,2 @@
-import { uniformArray } from "./dailyProblems/daily_3875";
-console.log("Run: ", uniformArray([23,86]));
+import { longestMonotonicSubarray } from "./dailyProblems/daily_3105";
+console.log("Run: ", longestMonotonicSubarray([1, 4, 3, 3, 2]));
